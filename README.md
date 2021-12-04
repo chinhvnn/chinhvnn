@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chinhvnn
-- 👀 I’m interested in football
+- 👀 I’m interested in football and Java
 
 
 <!---
